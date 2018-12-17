@@ -1,0 +1,28 @@
+p { 
+color: red; 
+}
+h1 {
+	color:#008000;
+}
+p {
+	color:#0000FF;
+}
+
+h1,h2{
+	background: #888888
+}
+body{
+	font-family: sans-serif;
+}
+p{
+	font-size: 12px
+}
+p{
+	text-decoration: line-through;
+}
+h2{
+	text-decoration: underline;
+}
+h1{
+	text-transform: uppercase;
+}
